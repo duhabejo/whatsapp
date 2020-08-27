@@ -2,13 +2,6 @@
 <head>
 </head>
 <body>
-<amp-carousel width="400" height="300" layout="responsive" type="slides" autoplay delay="2000"> <amp-img src="https://1.bp.blogspot.com/-fW3hvzOvulY/XujAxuO_4NI/AAAAAAAABcs/1NaM-RmkTDc849E3RIG6i-ddoZ8EIzyAwCLcBGAsYHQ/s320/MyPoster20200616193829.jpg" width="400" height="300" layout="responsive" alt="a sample image"></amp-img> <amp-img src="https://1.bp.blogspot.com/-6LRZYtduG5c/Xui_CPXg6uI/AAAAAAAABcg/D5GgIMQGmpgwHG9-WR3yLLZM-8PJ3aadgCLcBGAsYHQ/s320/MyPoster20200616194522.jpg" width="400" height="300" layout="responsive" alt="another sample image"></amp-img> <amp-img src="https://1.bp.blogspot.com/-fW3hvzOvulY/XujAxuO_4NI/AAAAAAAABcs/1NaM-RmkTDc849E3RIG6i-ddoZ8EIzyAwCLcBGAsYHQ/s320/MyPoster20200616193829.jpg" width="400" height="300" layout="responsive" alt="and another sample image"></amp-img>
-</amp-carousel>
-
-<div class="cpleft">
-<div align="center" class="MsoNormal">
-<a class="dmca-badge" href="https://www.facebook.com/ukmnengsafa/" title="facebook kami"> <amp-img alt="DMCA.com Protection Status" height="200" layout="fixed" src="https://1.bp.blogspot.com/-fW3hvzOvulY/XujAxuO_4NI/AAAAAAAABcs/1NaM-RmkTDc849E3RIG6i-ddoZ8EIzyAwCLcBGAsYHQ/s320/MyPoster20200616193829.jpg" width="180"></amp-img></a><a class="dmca-badge" href="https://www.instagram.com/nengsafa.official/" title="lihat status kami"> <amp-img alt="DMCA.com Protection Status" height="200" layout="fixed" src="https://1.bp.blogspot.com/-6LRZYtduG5c/Xui_CPXg6uI/AAAAAAAABcg/D5GgIMQGmpgwHG9-WR3yLLZM-8PJ3aadgCLcBGAsYHQ/s320/MyPoster20200616194522.jpg" width="180"></amp-img></a></div>
-</div>
 <style scoped="" type="text/css">
 /* Default Whatsapp Form CSS by www.idblanter.com */
 form.whatsapp-form {
